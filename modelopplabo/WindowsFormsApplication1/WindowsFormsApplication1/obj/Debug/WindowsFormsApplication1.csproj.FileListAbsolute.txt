@@ -1,0 +1,42 @@
+C:\Users\Alan\Desktop\Alan\Programacion\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Alan\Desktop\Alan\Programacion\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Desktop\Alan\Programacion\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmAnimal.resources
+C:\Users\Alan\Desktop\Alan\Programacion\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmMascota.resources
+C:\Users\Alan\Desktop\Alan\Programacion\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Alan\Desktop\Alan\Programacion\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Alan\Desktop\Alan\Programacion\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Alan\Desktop\Alan\Programacion\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Alan\Desktop\Alan\Programacion\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\Alan\Desktop\Alan\Programacion\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Alan\Desktop\Alan\Programacion\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmPrincipal.resources
+C:\Users\Alan\Desktop\Alan\Programacion\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Alan\Desktop\Alan\Programacion\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Alan\Desktop\Alan\Programacion\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmMostrar.resources
+E:\laboratorio\Clase VI modelo parcial\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\laboratorio\Clase VI modelo parcial\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\laboratorio\Clase VI modelo parcial\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\laboratorio\Clase VI modelo parcial\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\laboratorio\Clase VI modelo parcial\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\laboratorio\Clase VI modelo parcial\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+E:\laboratorio\Clase VI modelo parcial\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+E:\laboratorio\Clase VI modelo parcial\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\laboratorio\Clase VI modelo parcial\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmAnimal.resources
+E:\laboratorio\Clase VI modelo parcial\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmMascota.resources
+E:\laboratorio\Clase VI modelo parcial\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmMostrar.resources
+E:\laboratorio\Clase VI modelo parcial\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmPrincipal.resources
+E:\laboratorio\Clase VI modelo parcial\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\laboratorio\Clase VI modelo parcial\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\leandrito\Desktop\primer parcial labo 3\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\leandrito\Desktop\primer parcial labo 3\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\leandrito\Desktop\primer parcial labo 3\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\leandrito\Desktop\primer parcial labo 3\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\leandrito\Desktop\primer parcial labo 3\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\leandrito\Desktop\primer parcial labo 3\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\leandrito\Desktop\primer parcial labo 3\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\leandrito\Desktop\primer parcial labo 3\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\leandrito\Desktop\primer parcial labo 3\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmAnimal.resources
+C:\Users\leandrito\Desktop\primer parcial labo 3\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmMascota.resources
+C:\Users\leandrito\Desktop\primer parcial labo 3\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmMostrar.resources
+C:\Users\leandrito\Desktop\primer parcial labo 3\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmPrincipal.resources
+C:\Users\leandrito\Desktop\primer parcial labo 3\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\leandrito\Desktop\primer parcial labo 3\modelopplabo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
