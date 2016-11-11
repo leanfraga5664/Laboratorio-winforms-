@@ -1,0 +1,4 @@
+c:\users\leandro.fragala\documents\visual studio 2015\Projects\Entidades3\Entidades3\bin\Debug\Entidades3.dll
+c:\users\leandro.fragala\documents\visual studio 2015\Projects\Entidades3\Entidades3\bin\Debug\Entidades3.pdb
+c:\users\leandro.fragala\documents\visual studio 2015\Projects\Entidades3\Entidades3\obj\Debug\Entidades3.dll
+c:\users\leandro.fragala\documents\visual studio 2015\Projects\Entidades3\Entidades3\obj\Debug\Entidades3.pdb
