@@ -1,0 +1,10 @@
+c:\users\leandro.fragala\documents\visual studio 2015\Projects\Entidades3\Formularios3\bin\Debug\Formularios3.exe.config
+c:\users\leandro.fragala\documents\visual studio 2015\Projects\Entidades3\Formularios3\bin\Debug\Formularios3.exe
+c:\users\leandro.fragala\documents\visual studio 2015\Projects\Entidades3\Formularios3\bin\Debug\Formularios3.pdb
+c:\users\leandro.fragala\documents\visual studio 2015\Projects\Entidades3\Formularios3\obj\Debug\Formularios3.csprojResolveAssemblyReference.cache
+c:\users\leandro.fragala\documents\visual studio 2015\Projects\Entidades3\Formularios3\obj\Debug\Formularios3.FrmPrincipal.resources
+c:\users\leandro.fragala\documents\visual studio 2015\Projects\Entidades3\Formularios3\obj\Debug\Formularios3.Properties.Resources.resources
+c:\users\leandro.fragala\documents\visual studio 2015\Projects\Entidades3\Formularios3\obj\Debug\Formularios3.csproj.GenerateResource.Cache
+c:\users\leandro.fragala\documents\visual studio 2015\Projects\Entidades3\Formularios3\obj\Debug\Formularios3.exe
+c:\users\leandro.fragala\documents\visual studio 2015\Projects\Entidades3\Formularios3\obj\Debug\Formularios3.pdb
+c:\users\leandro.fragala\documents\visual studio 2015\Projects\Entidades3\Formularios3\obj\Debug\Formularios3.FrmAnimal.resources
