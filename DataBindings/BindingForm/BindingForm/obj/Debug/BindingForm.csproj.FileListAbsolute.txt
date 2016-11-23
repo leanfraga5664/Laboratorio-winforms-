@@ -1,0 +1,30 @@
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\BindingForm\BindingForm\bin\Debug\BindingForm.exe.config
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\BindingForm\BindingForm\bin\Debug\BindingForm.exe
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\BindingForm\BindingForm\bin\Debug\BindingForm.pdb
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\BindingForm\BindingForm\obj\Debug\BindingForm.csprojResolveAssemblyReference.cache
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\BindingForm\BindingForm\obj\Debug\BindingForm.Properties.Resources.resources
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\BindingForm\BindingForm\obj\Debug\BindingForm.csproj.GenerateResource.Cache
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\BindingForm\BindingForm\obj\Debug\BindingForm.exe
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\BindingForm\BindingForm\obj\Debug\BindingForm.pdb
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\BindingForm\BindingForm\obj\Debug\BindingForm.Form1.resources
+F:\Clase12 DataBindings 2016\BindingForm\BindingForm\bin\Debug\BindingForm.exe.config
+F:\Clase12 DataBindings 2016\BindingForm\BindingForm\obj\Debug\BindingForm.exe
+F:\Clase12 DataBindings 2016\BindingForm\BindingForm\obj\Debug\BindingForm.pdb
+F:\Clase12 DataBindings 2016\BindingForm\BindingForm\bin\Debug\BindingForm.exe
+F:\Clase12 DataBindings 2016\BindingForm\BindingForm\bin\Debug\BindingForm.pdb
+F:\Clase12 DataBindings 2016\BindingForm\BindingForm\obj\Debug\BindingForm.csprojResolveAssemblyReference.cache
+F:\Clase12 DataBindings 2016\BindingForm\BindingForm\obj\Debug\BindingForm.Form1.resources
+F:\Clase12 DataBindings 2016\BindingForm\BindingForm\obj\Debug\BindingForm.Properties.Resources.resources
+F:\Clase12 DataBindings 2016\BindingForm\BindingForm\obj\Debug\BindingForm.csproj.GenerateResource.Cache
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase12 DataBindings 2016\BindingForm\BindingForm\bin\Debug\BindingForm.exe.config
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase12 DataBindings 2016\BindingForm\BindingForm\obj\Debug\BindingForm.exe
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase12 DataBindings 2016\BindingForm\BindingForm\obj\Debug\BindingForm.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase12 DataBindings 2016\BindingForm\BindingForm\bin\Debug\BindingForm.exe
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase12 DataBindings 2016\BindingForm\BindingForm\bin\Debug\BindingForm.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase12 DataBindings 2016\BindingForm\BindingForm\obj\Debug\BindingForm.csprojResolveAssemblyReference.cache
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase12 DataBindings 2016\BindingForm\BindingForm\obj\Debug\BindingForm.Form1.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase12 DataBindings 2016\BindingForm\BindingForm\obj\Debug\BindingForm.Properties.Resources.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase12 DataBindings 2016\BindingForm\BindingForm\obj\Debug\BindingForm.csproj.GenerateResource.Cache
+C:\Users\leandrito\Documents\Visual Studio 2012\Projects\ultima clase labo3\ultima clase labo3\DataBindings\BindingForm\BindingForm\bin\Debug\BindingForm.exe.config
+C:\Users\leandrito\Documents\Visual Studio 2012\Projects\ultima clase labo3\ultima clase labo3\DataBindings\BindingForm\BindingForm\obj\Debug\BindingForm.exe
+C:\Users\leandrito\Documents\Visual Studio 2012\Projects\ultima clase labo3\ultima clase labo3\DataBindings\BindingForm\BindingForm\obj\Debug\BindingForm.pdb

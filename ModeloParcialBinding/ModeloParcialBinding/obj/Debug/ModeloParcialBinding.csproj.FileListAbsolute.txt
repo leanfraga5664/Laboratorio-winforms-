@@ -1,0 +1,30 @@
+C:\Users\mariano.j.mutti\Documents\Visual Studio 2015\Projects\ModeloParcialBinding\ModeloParcialBinding\bin\Debug\ModeloParcialBinding.exe.config
+C:\Users\mariano.j.mutti\Documents\Visual Studio 2015\Projects\ModeloParcialBinding\ModeloParcialBinding\bin\Debug\ModeloParcialBinding.exe
+C:\Users\mariano.j.mutti\Documents\Visual Studio 2015\Projects\ModeloParcialBinding\ModeloParcialBinding\bin\Debug\ModeloParcialBinding.pdb
+C:\Users\mariano.j.mutti\Documents\Visual Studio 2015\Projects\ModeloParcialBinding\ModeloParcialBinding\obj\Debug\ModeloParcialBinding.csprojResolveAssemblyReference.cache
+C:\Users\mariano.j.mutti\Documents\Visual Studio 2015\Projects\ModeloParcialBinding\ModeloParcialBinding\obj\Debug\ModeloParcialBinding.Form1.resources
+C:\Users\mariano.j.mutti\Documents\Visual Studio 2015\Projects\ModeloParcialBinding\ModeloParcialBinding\obj\Debug\ModeloParcialBinding.Properties.Resources.resources
+C:\Users\mariano.j.mutti\Documents\Visual Studio 2015\Projects\ModeloParcialBinding\ModeloParcialBinding\obj\Debug\ModeloParcialBinding.csproj.GenerateResource.Cache
+C:\Users\mariano.j.mutti\Documents\Visual Studio 2015\Projects\ModeloParcialBinding\ModeloParcialBinding\obj\Debug\ModeloParcialBinding.exe
+C:\Users\mariano.j.mutti\Documents\Visual Studio 2015\Projects\ModeloParcialBinding\ModeloParcialBinding\obj\Debug\ModeloParcialBinding.pdb
+C:\Users\mariano.j.mutti\Documents\Visual Studio 2015\Projects\ModeloParcialBinding\ModeloParcialBinding\obj\Debug\ModeloParcialBinding.Telefono.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\ModeloParcialBinding\ModeloParcialBinding\bin\Debug\ModeloParcialBinding.exe.config
+C:\Users\profesor.LAB04PROFESOR\Desktop\ModeloParcialBinding\ModeloParcialBinding\obj\Debug\ModeloParcialBinding.exe
+C:\Users\profesor.LAB04PROFESOR\Desktop\ModeloParcialBinding\ModeloParcialBinding\obj\Debug\ModeloParcialBinding.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\ModeloParcialBinding\ModeloParcialBinding\bin\Debug\ModeloParcialBinding.exe
+C:\Users\profesor.LAB04PROFESOR\Desktop\ModeloParcialBinding\ModeloParcialBinding\bin\Debug\ModeloParcialBinding.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\ModeloParcialBinding\ModeloParcialBinding\obj\Debug\ModeloParcialBinding.csprojResolveAssemblyReference.cache
+C:\Users\profesor.LAB04PROFESOR\Desktop\ModeloParcialBinding\ModeloParcialBinding\obj\Debug\ModeloParcialBinding.Form1.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\ModeloParcialBinding\ModeloParcialBinding\obj\Debug\ModeloParcialBinding.Properties.Resources.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\ModeloParcialBinding\ModeloParcialBinding\obj\Debug\ModeloParcialBinding.Telefono.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\ModeloParcialBinding\ModeloParcialBinding\obj\Debug\ModeloParcialBinding.csproj.GenerateResource.Cache
+C:\Users\leandrito\Documents\Visual Studio 2012\Projects\ultima clase labo3\ultima clase labo3\ModeloParcialBinding\ModeloParcialBinding\bin\Debug\ModeloParcialBinding.exe.config
+C:\Users\leandrito\Documents\Visual Studio 2012\Projects\ultima clase labo3\ultima clase labo3\ModeloParcialBinding\ModeloParcialBinding\obj\Debug\ModeloParcialBinding.exe
+C:\Users\leandrito\Documents\Visual Studio 2012\Projects\ultima clase labo3\ultima clase labo3\ModeloParcialBinding\ModeloParcialBinding\obj\Debug\ModeloParcialBinding.pdb
+C:\Users\leandrito\Documents\Visual Studio 2012\Projects\ultima clase labo3\ultima clase labo3\ModeloParcialBinding\ModeloParcialBinding\bin\Debug\ModeloParcialBinding.exe
+C:\Users\leandrito\Documents\Visual Studio 2012\Projects\ultima clase labo3\ultima clase labo3\ModeloParcialBinding\ModeloParcialBinding\bin\Debug\ModeloParcialBinding.pdb
+C:\Users\leandrito\Documents\Visual Studio 2012\Projects\ultima clase labo3\ultima clase labo3\ModeloParcialBinding\ModeloParcialBinding\obj\Debug\ModeloParcialBinding.csprojResolveAssemblyReference.cache
+C:\Users\leandrito\Documents\Visual Studio 2012\Projects\ultima clase labo3\ultima clase labo3\ModeloParcialBinding\ModeloParcialBinding\obj\Debug\ModeloParcialBinding.Form1.resources
+C:\Users\leandrito\Documents\Visual Studio 2012\Projects\ultima clase labo3\ultima clase labo3\ModeloParcialBinding\ModeloParcialBinding\obj\Debug\ModeloParcialBinding.Properties.Resources.resources
+C:\Users\leandrito\Documents\Visual Studio 2012\Projects\ultima clase labo3\ultima clase labo3\ModeloParcialBinding\ModeloParcialBinding\obj\Debug\ModeloParcialBinding.Telefono.resources
+C:\Users\leandrito\Documents\Visual Studio 2012\Projects\ultima clase labo3\ultima clase labo3\ModeloParcialBinding\ModeloParcialBinding\obj\Debug\ModeloParcialBinding.csproj.GenerateResource.Cache
